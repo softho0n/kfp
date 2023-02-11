@@ -1,0 +1,9 @@
+kfp
+opencv-python
+pre-commit
+pylint
+pyright
+pytest
+tensorboardX
+torch
+torchvision
